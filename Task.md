@@ -12,7 +12,7 @@
 	[ ] Implement dimensionality reduction
 
 # Time and Frequency Analysis
-[ ] Statistical Analysis
+[A] Statistical Analysis
 
 [P] Fourier Analysis: do the fourier transform, plot the spectrum, describe it a little, maybe understand what is happening by using google
 
