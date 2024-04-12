@@ -14,40 +14,14 @@ The first one include the data detected from a sensor placed on a bed stave, und
 Instead the second include the data detected from a sensor placed on the subject chest directly on a sweater.  
 
 ### Table of Content
-1. [Introduction](#introduction)
-2. [Preparing the Dataset](#preparing-the-dataset)
+1. Introduction
+2. Preparing the Dataset
+3. Statistical Analysis
+4. Discrete Fourier Transform
+5. Wavelet Transform
+6. Alternative Methods
+7. Conclusions
 
-	2.1 [Data Loading and Calibration](#data-loading-and-calibration)
-
-	2.2 [Sample Rate Analysis](#sample-rate-analysis)
-
-	2.3 [Showcasing the Data](#showcasing-the-data)
-
-3. [Statistical Analysis](#statistical-analysis)
-
-	3.1 [Dimensionality Reduction](#dimensionality-reduction)
-
-4. [Discrete Fourier Transform](#discrete-fourier-transform)
-
-	4.1 [Passband Filter](#passband-filter)
-
-	4.1 [Gaussian Filter](#gaussian-filter)
-
-5. [Wavelet Transform](#wavelet-tranform)
-
-	5.1 [Peaks Analysis](#peaks-analysis)
-
-6. [Alternative Methods](#alternative-method)
-
-	6.1 [Subtracting the Baseline](#subtracting-the-baseline)
-
-	6.2 [Finding the Peaks](#finding-the-peaks)
-
-	6.3 [Gaussian Fitting](#gaussian-fitting)
-
-	6.4 [Respiratory Rate](#respiratory-rate-estimation)
-
-7. [Conclutions](##Conclutions)
 
 We all contributed equally in achieving the results, working simultaneously on the several parts of the projects.
 Obviouly different people worked more on different parts as explained in this list:
